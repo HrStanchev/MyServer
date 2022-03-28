@@ -1,0 +1,12 @@
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\bin\Debug\net5.0\MyServer.Models.deps.json
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\bin\Debug\net5.0\MyServer.Models.dll
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\bin\Debug\net5.0\ref\MyServer.Models.dll
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\bin\Debug\net5.0\MyServer.Models.pdb
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\MyServer.Models.csproj.AssemblyReference.cache
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\MyServer.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\MyServer.Models.AssemblyInfoInputs.cache
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\MyServer.Models.AssemblyInfo.cs
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\MyServer.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\MyServer.Models.dll
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\ref\MyServer.Models.dll
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.Models\obj\Debug\net5.0\MyServer.Models.pdb

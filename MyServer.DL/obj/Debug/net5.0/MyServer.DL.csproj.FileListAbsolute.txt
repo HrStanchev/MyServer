@@ -1,0 +1,5 @@
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.DL\obj\Debug\net5.0\MyServer.DL.csproj.AssemblyReference.cache
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.DL\obj\Debug\net5.0\MyServer.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.DL\obj\Debug\net5.0\MyServer.DL.AssemblyInfoInputs.cache
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.DL\obj\Debug\net5.0\MyServer.DL.AssemblyInfo.cs
+C:\Users\Stanchev\Desktop\uni\C#\Async\MyServer\MyServer\MyServer.DL\obj\Debug\net5.0\MyServer.DL.csproj.CoreCompileInputs.cache
